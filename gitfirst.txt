@@ -1,4 +1,4 @@
-cout<<"hello";
+out<<"hello";
 
 1234
 changes
